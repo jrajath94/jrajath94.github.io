@@ -1,0 +1,17 @@
+pandas
+matplotlib
+numpy
+ipywidgets
+datetime
+bqplot
+numpy
+psutil
+toolz
+matplotlib
+dill
+pandas
+partd
+bokeh
+dask
+ipywidgets
+bqplot
